@@ -29,3 +29,4 @@ White: 9
 Gereksinimler
 raylib kütüphanesi
 C++ derleyici
+![Resistor Image](resources/ex1.png)
